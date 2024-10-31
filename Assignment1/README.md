@@ -1,0 +1,1 @@
+I think since the retweets are technically considered a different tweet   as they are given a separate tweet ID, they are being doubly counted; to fix this we should consider the column : retweet

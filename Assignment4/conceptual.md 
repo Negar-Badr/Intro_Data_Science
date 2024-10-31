@@ -1,0 +1,17 @@
+1.	What is refactoring? Give three examples of refactoring techniques.
+- improving the structure of code without changing its functionality. \n
+- Changing a variable name
+- Changing the data type used in a particular spot
+- Changing the library that you’re using
+
+2.	In a data science project, why does code naturally go through “phases” of messiness?
+Bcz when we start a project intially we start with exploratory code and apply some fast changes 
+to get some quick insight about the data, as a result, naturally it would appear messy.
+
+3.	What are three techniques for creating more modular code?
+- Break code into functions = a bundle of code that does a specific thing
+- Use classes like OOP
+- Separte the configuration files like paths from the code
+
+
+
