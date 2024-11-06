@@ -1,0 +1,3 @@
+first issue in my opinion was that the two categories: course and major/academic are very close knit to eachother so i don't thing it was such a good idea to separate them or at least the separation was not quite clear
+The other thing is that sometime on the post title it literally says both of the categories like cs major + career, since we are no considering the actual content within the post we can't really say which category it belongs to. to tackle this we can either define a new category where we add all the posts conceringin more than one category or i actually don't know what else to do!!!
+Third, in one specific case my answer was different than both my annotaters which shows i was not clear in explaining my catgories clearly!
